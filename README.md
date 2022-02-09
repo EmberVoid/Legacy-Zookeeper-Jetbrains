@@ -20,7 +20,7 @@ There are 4 stages with various Python topics on each one
     -- Taking and managing user inputs (input())
     -- Lists and Indexes
 - Stage 4-4 - Sustainable care + error handling  
-    -- Integer arithmetic and basic operations (addition, substraction, multiplication, division, integer divission)
-    -- Comparisons operators
-    -- If statement, While Loops and Boolean Logic
+    -- Integer arithmetic and basic operations (addition, substraction, multiplication, division, integer divission)  
+    -- Comparisons operators  
+    -- If statement, While Loops and Boolean Logic  
     -- Added basic error handling (try, except, IndexError and ValueError)
