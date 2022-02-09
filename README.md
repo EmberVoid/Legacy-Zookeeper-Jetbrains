@@ -9,17 +9,17 @@ This project is aimed at our beginners. It helps you understand some syntax basi
 
 There are 4 stages with various Python topics on each one
 
-- Stage 1-4 - Rush into print
+- Stage 1-4 - Rush into print  
     -- Overview of the basic program, printing and Multi-line programs 
-- Stage 2-4 - Show me an animal
+- Stage 2-4 - Show me an animal  
     -- PEP 8 - Naming Conventions and code standard
     -- How to add _comments_
     -- Basic data type (Strings, int, float)
-- Stage 3-4 - What's inside
+- Stage 3-4 - What's inside  
     -- Defining a variable and assigning values
     -- Taking and managing user inputs (input())
     -- Lists and Indexes
-- Stage 4-4 - Sustainable care + error handling
+- Stage 4-4 - Sustainable care + error handling  
     -- Integer arithmetic and basic operations (addition, substraction, multiplication, division, integer divission)
     -- Comparisons operators
     -- If statement, While Loops and Boolean Logic
